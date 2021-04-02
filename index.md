@@ -1,8 +1,8 @@
 ![Image](https://raw.githubusercontent.com/dabergar/estoesoytodolocontrario/master/image.jpg)
 
-### Un increible podcast, donde se hablará de miles de temas...o quizás, de solo unos pocos...
+## Un increible podcast, donde se hablará de miles de temas...o quizás, de solo unos pocos...
 
-**Capitulos:**
+### Capitulos:
 
 - **#1** - _Decepciones, mercados y manzanas_
 
