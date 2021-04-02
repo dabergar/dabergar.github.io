@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/dabergar/estoesoytodolocontrario/master/image.jpg)
+![Image](https://raw.githubusercontent.com/dabergar/dabergar.github.io/main/thumbnail.jpg)
 
 ## Un increible podcast, donde se hablará de miles de temas...o quizás, de solo unos pocos...
 
